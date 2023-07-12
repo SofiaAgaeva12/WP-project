@@ -1,0 +1,51 @@
+/*!
+Theme Name: BlogHub
+Theme URI: https://themeuniver.com/bloghub
+Author: ThemeUniver
+Author URI: http://themeuniver.com
+Description: BlogHub is a powerful and feature-rich WordPress blog theme that is perfect for creating news, magazine, and publishing websites. With its clean and modern design, BlogHub provides a professional and polished look that is sure to impress your readers. One of the standout features of BlogHub is its customizable sidebar options, which allow you to choose between left, right, or full-width grid layouts for your blog. This means you can create a unique look for your website that suits your brand and style. Another great feature of BlogHub is its support for video, audio, and gallery formats on posts. This makes it easy to create engaging content that your readers will love, and helps to keep them on your website for longer. In addition to its customization options, BlogHub also boasts lightning-fast loading speeds of over 95%, making it one of the fastest WordPress blog themes available. This ensures that your readers won't be kept waiting, even on slower connections. And if you're looking to reach a global audience, BlogHub is fully compatible RTL with WPML, making it easy to translate your content into multiple languages. It also supports RTL languages, ensuring that your website looks great no matter what language it's viewed in. Overall, BlogHub is a complete WordPress blog theme that provides all the features and functionality you need to create a professional-looking website. BlogHub Fully Support WooCommerce Function so you can easy to added your Shop product and sell. Download it today and start creating engaging content that your readers will love!
+Version: 1.0.9
+Tested up to: 6.2
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: bloghub
+Tags: translation-ready, custom-background, theme-options, custom-menu, threaded-comments, featured-images, footer-widgets, left-sidebar,right-sidebar, grid-layout, editor-style, full-width-template, one-column, two-columns, three-columns, four-columns, custom-colors, custom-header, custom-logo, blog, news, sticky-post, post-formats, wide-blocks, e-commerce, rtl-language-support, style-variations, template-editing
+@fs_premium_only /lib/functions.php, /premium-files/
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+BlogHub is based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Common
+	- Root
+# Variable
+# Default
+# Preloader
+# Header
+	- Site Title
+	- Nativation Menu
+	- Social Icon
+	- Right Section
+		- Drak And Light Mode
+		- Notification Icon
+		- Search Icon
+			- Search PopUp
+# Post Item CSS
+	- Post Items
+	- Post Details Wrapper
+	- Post Thumbanil 
+	- Post Author Info Box
+	- Post Slider Box
+# Post Pagination
+# Footer
+# Color

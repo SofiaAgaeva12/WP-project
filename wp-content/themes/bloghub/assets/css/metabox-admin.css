@@ -1,0 +1,179 @@
+#audio_meta_box .postbox-header,#gallery_meta_box .postbox-header,#video_meta_box .postbox-header {
+    padding: 8px 0;
+    background: #ebebeb;
+}
+.custom-meta-area label {
+    display: block;
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 14px;
+    margin-top: 20px;
+}
+
+.custom-meta-area input {
+    padding: 9px;
+    width: 100%;
+    border-color: #c3c3c3;
+}
+
+.custom-meta-area ul#gallery-images-list {
+    display: flex;
+}
+
+.custom-meta-area ul#gallery-images-list li {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    padding: 5px;
+    box-shadow: 0px 0px 33px 0px #0000001f;
+}
+
+.custom-meta-area ul#gallery-images-list li img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+span.remove-image {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    background: #8571FF;
+    display: block;
+    border-radius: 100%;
+    color: #ffffff;
+    font-size: 14px;
+    cursor: pointer;
+    top: 0;
+    opacity: 0;
+    visibility: hidden;
+    transition: .4s;
+}
+
+.custom-meta-area ul#gallery-images-list li:hover span.remove-image {
+    opacity: 1;
+    visibility: visible;
+}
+
+li#customize-control-footer_bg-background-color {
+    display: none;
+}
+li#customize-control-ft_widget_layout > div> label {
+    width: 31%;
+}
+
+.customize-control .kirki-control-label label {
+    border-top: 2px solid #8571ff;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+li#customize-control-header_notification_open_new label {
+    border: transparent;
+    margin: 0;
+    padding: 0;
+}
+
+span.description.customize-control-description a.Purchase-links {
+    color: #8571FF;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+li#customize-control-enable_cat {
+    margin-top: 12px;
+    margin-bottom: 15px;
+}
+
+/*** Bloghub Theme Options css ***/
+.bloghub-optins-dec {
+    text-align: left;
+    padding: 30px;
+    background: #ffffff;
+    border-top: 0;
+}
+
+.bloghub-optins-dec {}
+
+.bloghub-optins-dec h2 {
+    font-size: 29px;
+    margin-bottom: 32px;
+}
+
+.bloghub-optins-dec p {
+    font-size: 16px;
+}
+
+.bloghub-optins-dec h3 {
+    font-size: 30px;
+}
+
+.bloghub-optins-dec ul {
+    display: inline-flex;
+    width: 100%;
+    flex-wrap: wrap;
+    flex-direction: row;
+    list-style: decimal-leading-zero;
+    list-style-position: inside;
+}
+
+.bloghub-optins-dec ul li {
+    width: 22%;
+    line-height: 33px;
+    border-bottom: 1px solid #e1e1e1;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.bloghub-themeoptions .nav-tab-wrapper {
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+.bloghub-themeoptions .nav-tab-wrapper a {
+    margin-left: 0;
+    border: none;
+    background: #192042;
+    color: #ffffff;
+    padding: 13px 6%;
+    border-right: 1px solid #49505c;
+}
+
+.bloghub-themeoptions .nav-tab-wrapper a.nav-tab.nav-tab-active {
+    background: #8571FF;
+}
+.bloghub-optins-dec table {
+    width: 100%;
+}
+
+.bloghub-optins-dec .table-header {
+    background: #8571FF;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.bloghub-optins-dec table td {
+    padding: 9px;
+    border: 1px solid #e7e7e7;
+}
+
+.bloghub-optins-dec table tr {
+    border: 1px  solid red;
+}
+
+.bloghub-optins-dec table td.premium-yes {
+    color: #8571FF;
+    font-weight: bold;
+}
+
+.bloghub-optins-dec table td.premium-no {
+    color: #ed2828;
+    font-weight: bold;
+}

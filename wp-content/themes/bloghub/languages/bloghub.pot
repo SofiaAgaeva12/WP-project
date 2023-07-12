@@ -1,0 +1,1223 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BlogHub\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-27 14:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: bloghub"
+
+#: inc/template-functions.php:177
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#: inc/widgets/about-info.php:8
+msgid " BlogHub About Info WIdget "
+msgstr ""
+
+#: inc/hook/custom-hook.php:191
+#, php-format
+msgid " Theme: blogHub by %s"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:32
+msgid "\"Add Social Icon"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-functions.php:198
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-functions.php:195
+msgid ", "
+msgstr ""
+
+#: inc/template-functions.php:213
+msgid "1"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+msgid "1 Comment"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:214
+msgid "3 Icon Support for Free Version"
+msgstr ""
+
+#: 404.php:30
+msgid "404"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-menu-options.php:18
+msgid "Add Background Color for Header"
+msgstr ""
+
+#: inc/custom-metabox.php:120
+msgid "Add Gallery Images"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:166
+msgid "Add Social Box Background Color"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:189
+msgid "Add Social Box Border Radius"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:120
+msgid "Add Social Icon Background Color"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:113
+msgid "Add Social Icon Color"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:73
+msgid "Add Social Icon Here"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:97
+msgid "Add Social Link Here"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:66
+msgid "Add Social Media Name"
+msgstr ""
+
+#: functions.php:208 functions.php:219 functions.php:231 functions.php:243
+#: functions.php:254 functions.php:265 functions.php:276
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:137
+msgid "Alignment"
+msgstr ""
+
+#: inc/widgets/blog-post-widget.php:97
+msgid "All Category"
+msgstr ""
+
+#: inc/comment-template.php:53
+msgid "All fields marked with an asterisk (*) are required"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/archive-options.php:4
+msgid "Archive Options"
+msgstr ""
+
+#: inc/widgets/blog-post-widget.php:123
+#: inc/kirki-customize/kirki-options/post-slider.php:54
+msgid "ASC"
+msgstr ""
+
+#: inc/custom-metabox.php:34
+msgid "Audio URL:"
+msgstr ""
+
+#: inc/widgets/about-info.php:107
+msgid "Author Image:"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/footer-options.php:47
+#: inc/kirki-customize/kirki-options/theme-color-options.php:85
+#: inc/kirki-customize/kirki-options/theme-general.php:134
+msgid "Background Color"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:82
+msgid "Behance"
+msgstr ""
+
+#: inc/template-functions.php:458
+msgid "Blog"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/blog-options.php:4
+msgid "Blog Options"
+msgstr ""
+
+#. Name of the theme
+msgid "BlogHub"
+msgstr ""
+
+#: inc/widgets/blog-post-widget.php:8
+msgid "BlogHub : Recent Posts"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"BlogHub is a powerful and feature-rich WordPress blog theme that is perfect "
+"for creating news, magazine, and publishing websites. With its clean and "
+"modern design, BlogHub provides a professional and polished look that is "
+"sure to impress your readers. One of the standout features of BlogHub is its "
+"customizable sidebar options, which allow you to choose between left, right, "
+"or full-width grid layouts for your blog. This means you can create a unique "
+"look for your website that suits your brand and style. Another great feature "
+"of BlogHub is its support for video, audio, and gallery formats on posts. "
+"This makes it easy to create engaging content that your readers will love, "
+"and helps to keep them on your website for longer. In addition to its "
+"customization options, BlogHub also boasts lightning-fast loading speeds of "
+"over 95%, making it one of the fastest WordPress blog themes available. This "
+"ensures that your readers won't be kept waiting, even on slower connections. "
+"And if you're looking to reach a global audience, BlogHub is fully "
+"compatible with WPML, making it easy to translate your content into multiple "
+"languages. It also supports RTL languages, ensuring that your website looks "
+"great no matter what language it's viewed in. Overall, BlogHub is a complete "
+"WordPress blog theme that provides all the features and functionality you "
+"need to create a professional-looking website. Download it today and start "
+"creating engaging content that your readers will love!"
+msgstr ""
+
+#: inc/admin/admin.php:4 inc/admin/admin.php:5
+msgid "Bloghub Options"
+msgstr ""
+
+#: inc/widgets/blog-post-widget.php:9
+msgid "BlogHub recent posts widget"
+msgstr ""
+
+#: inc/widgets/about-info.php:6
+msgid "BlogHub: About Info"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/typography-options.php:20
+msgid "Body Typography"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/theme-color-options.php:107
+msgid "Body/Text Color"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:188
+msgid "Border Radius"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:165
+msgid "Box Background"
+msgstr ""
+
+#: inc/woocommerce.php:324 inc/widgets/blog-post-widget.php:95
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/kirki-customize/header/header-social.php:144
+msgid "Center"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/post-slider.php:26
+#: inc/kirki-customize/kirki-options/post-slider.php:52
+msgid "Choose an option"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/theme-general.php:111
+msgid "Color"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/footer-options.php:88
+#: inc/kirki-customize/kirki-options/theme-color-options.php:4
+msgid "Color Options"
+msgstr ""
+
+#: inc/template-functions.php:213
+msgid "Comment"
+msgstr ""
+
+#: inc/widgets/blog-post-widget.php:136
+msgid "Comment Count"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/post-slider.php:33
+msgid "Comment count"
+msgstr ""
+
+#: inc/template-functions.php:213
+msgid "Comments"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comments"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/kirki-customize/kirki-options/error-page.php:33
+#: inc/kirki-customize/kirki-options/footer-subscribe.php:41
+msgid "Content"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/footer-options.php:113
+msgid "Content Color"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:63
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/copyright-options.php:3
+msgid "Copyright Options"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/copyright-options.php:10
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/code-editor-options.php:4
+msgid "Custom Code"
+msgstr ""
+
+#: inc/widgets/blog-post-widget.php:133
+#: inc/kirki-customize/kirki-options/post-slider.php:30
+msgid "Date"
+msgstr ""
+
+#: inc/hook/custom-hook.php:363
+msgid "Demo page"
+msgstr ""
+
+#: inc/widgets/blog-post-widget.php:122
+msgid "DESC"
+msgstr ""
+
+#: inc/widgets/about-info.php:113
+msgid "Description:"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/post-slider.php:55
+msgid "DESE"
+msgstr ""
+
+#: inc/widgets/about-info.php:102
+msgid "Designation:"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:19
+#: inc/kirki-customize/kirki-options/archive-options.php:33
+#: inc/kirki-customize/kirki-options/copyright-options.php:38
+#: inc/kirki-customize/kirki-options/error-page.php:16
+#: inc/kirki-customize/kirki-options/pages-options.php:43
+#: inc/kirki-customize/kirki-options/pages-options.php:56
+#: inc/kirki-customize/kirki-options/post-slider.php:16
+#: inc/kirki-customize/kirki-options/search-options.php:33
+#: inc/kirki-customize/kirki-options/single-page-options.php:30
+#: inc/kirki-customize/kirki-options/theme-color-options.php:16
+#: inc/kirki-customize/kirki-options/theme-color-options.php:47
+#: inc/kirki-customize/kirki-options/theme-color-options.php:78
+#: inc/kirki-customize/kirki-options/theme-color-options.php:135
+msgid "Disable"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/footer-subscribe.php:11
+msgid "Disable Options Only for Pro Featured"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:90
+msgid "Discord"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/shop/shop-page.php:39
+#: inc/kirki-customize/kirki-options/shop/single-shop.php:39
+msgid "Display Item"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:81
+msgid "Dribbble"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-functions.php:228 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/comment-template.php:17
+msgid "Email*"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:18
+#: inc/kirki-customize/kirki-options/archive-options.php:32
+#: inc/kirki-customize/kirki-options/copyright-options.php:37
+#: inc/kirki-customize/kirki-options/error-page.php:15
+#: inc/kirki-customize/kirki-options/pages-options.php:42
+#: inc/kirki-customize/kirki-options/pages-options.php:55
+#: inc/kirki-customize/kirki-options/post-slider.php:15
+#: inc/kirki-customize/kirki-options/search-options.php:32
+#: inc/kirki-customize/kirki-options/single-page-options.php:29
+#: inc/kirki-customize/kirki-options/theme-color-options.php:15
+#: inc/kirki-customize/kirki-options/theme-color-options.php:46
+#: inc/kirki-customize/kirki-options/theme-color-options.php:77
+#: inc/kirki-customize/kirki-options/theme-color-options.php:134
+msgid "Enable"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/theme-color-options.php:73
+msgid "Enable Body Color"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/archive-options.php:28
+#: inc/kirki-customize/kirki-options/error-page.php:11
+#: inc/kirki-customize/kirki-options/pages-options.php:38
+#: inc/kirki-customize/kirki-options/search-options.php:28
+#: inc/kirki-customize/kirki-options/single-page-options.php:25
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/pages-options.php:51
+msgid "Enable Comment Box"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/copyright-options.php:33
+msgid "Enable Menu"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/post-slider.php:11
+msgid "Enable Post Slider"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/theme-color-options.php:11
+msgid "Enable Primary Color"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/theme-color-options.php:42
+msgid "Enable Secondary Color"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/theme-color-options.php:130
+msgid "Enable Sidebar Background"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:14
+msgid "Enable Social Section for Header"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:13
+msgid "Enable Socials"
+msgstr ""
+
+#: inc/template-functions.php:495
+msgid "Error 404"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/error-page.php:4
+msgid "Error Page"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:38
+#: inc/kirki-customize/header/header-social.php:67
+#: inc/kirki-customize/header/header-social.php:76
+msgid "Facebook"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/footer-options.php:66
+msgid "Footer Background Options"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/footer-options.php:39
+msgid "Footer Background Settings"
+msgstr ""
+
+#: functions.php:274
+msgid "Footer Four"
+msgstr ""
+
+#: functions.php:100
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:241
+msgid "Footer One"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/footer-options.php:4
+msgid "Footer Options"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/footer-subscribe.php:4
+msgid "Footer Subscribe"
+msgstr ""
+
+#: functions.php:263
+msgid "Footer Three"
+msgstr ""
+
+#: functions.php:252
+msgid "Footer Two"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/shop/single-shop.php:25
+msgid "Four Columns for Free"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/archive-options.php:15
+#: inc/kirki-customize/kirki-options/blog-options.php:15
+#: inc/kirki-customize/kirki-options/pages-options.php:14
+#: inc/kirki-customize/kirki-options/search-options.php:15
+#: inc/kirki-customize/kirki-options/single-page-options.php:15
+msgid "Full Width"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/theme-general.php:4
+msgid "General Options"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/footer-subscribe.php:43
+msgid "Get the latest posts delivered right to your email."
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/archive-options.php:18
+#: inc/kirki-customize/kirki-options/blog-options.php:18
+#: inc/kirki-customize/kirki-options/search-options.php:18
+msgid "Grid Full"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/archive-options.php:19
+#: inc/kirki-customize/kirki-options/blog-options.php:19
+#: inc/kirki-customize/kirki-options/search-options.php:19
+msgid "Grid With Left Sidebar"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/archive-options.php:20
+#: inc/kirki-customize/kirki-options/blog-options.php:20
+#: inc/kirki-customize/kirki-options/search-options.php:20
+msgid "Grid With Right Sidebar"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/typography-options.php:50
+msgid "H1 Typography"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/typography-options.php:79
+msgid "H2 Typography"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/typography-options.php:108
+msgid "H3 Typography"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/typography-options.php:137
+msgid "H4 Typography"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/typography-options.php:166
+msgid "H5 Typography"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/typography-options.php:195
+msgid "H6 Typography"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-menu-options.php:17
+msgid "Header Bckground Color"
+msgstr ""
+
+#: inc/kirki-customize/kirki-customizer.php:9
+msgid "Header Options"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-menu-options.php:40
+msgid "Header Radius"
+msgstr ""
+
+#: inc/kirki-customize/kirki-customizer.php:17
+msgid "Header Select"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:6
+msgid "Header Social"
+msgstr ""
+
+#: inc/template-functions.php:451 inc/template-functions.php:498
+#: inc/hook/structure.php:433
+msgid "Home"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://themeuniver.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themeuniver.com/bloghub"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:119
+msgid "Icon Background"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:112
+msgid "Icon Color"
+msgstr ""
+
+#: inc/widgets/blog-post-widget.php:132
+#: inc/kirki-customize/kirki-options/post-slider.php:29
+msgid "ID"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:79
+msgid "Instagram"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: functions.php:329
+msgctxt "Jost: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/code-editor-options.php:11
+msgid "Js Code For Pro Featured"
+msgstr ""
+
+#: inc/comment-template.php:54
+msgid "Leave A Comment"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:143
+msgid "Left"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/archive-options.php:16
+#: inc/kirki-customize/kirki-options/blog-options.php:16
+#: inc/kirki-customize/kirki-options/pages-options.php:15
+#: inc/kirki-customize/kirki-options/search-options.php:16
+#: inc/kirki-customize/kirki-options/single-page-options.php:16
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/footer-options.php:130
+msgid "Link Color"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/footer-options.php:150
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:102
+msgid "Link Target"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:96
+msgid "Link URL"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:54
+#: inc/kirki-customize/header/header-social.php:78
+msgid "Linkedin"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-functions.php:174
+msgctxt "list item separator"
+msgid ""
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-menu-options.php:87
+#: inc/kirki-customize/header/kirki-menu-options.php:172
+msgid "Menu Color"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-menu-options.php:65
+msgid "Menu Color Options"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-menu-options.php:71
+msgid "Menu Hover"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-menu-options.php:70
+msgid "Menu Normal"
+msgstr ""
+
+#: inc/widgets/blog-post-widget.php:134
+#: inc/kirki-customize/kirki-options/post-slider.php:31
+msgid "Name"
+msgstr ""
+
+#: inc/comment-template.php:9
+msgid "Name*"
+msgstr ""
+
+#: inc/widgets/about-info.php:97
+msgid "Name:"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:106
+msgid "New Window"
+msgstr ""
+
+#: inc/template-functions.php:384
+msgid "Next Post"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-notification.php:49
+msgid "No"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/shop/shop-page.php:11
+#: inc/kirki-customize/kirki-options/shop/single-shop.php:11
+msgid "No Sidebar for Free"
+msgstr ""
+
+#: inc/widgets/blog-post-widget.php:131
+#: inc/kirki-customize/kirki-options/post-slider.php:28
+msgid "None"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-notification.php:23
+msgid "Notification Add Link"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-notification.php:122
+msgid "Notification BG Color"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-notification.php:9
+msgid "Notification Disable Pro Featured"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-notification.php:148
+msgid "Notification Hover BG Color"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-notification.php:68
+msgid "Notification Icon Color"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-notification.php:95
+msgid "Notification Icon Hover Color"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:48
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/error-page.php:26
+msgid "Oops! That page can&rsquo;t be found"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-notification.php:43
+msgid "Open New Window?"
+msgstr ""
+
+#: inc/widgets/blog-post-widget.php:129
+msgid "Order By"
+msgstr ""
+
+#: inc/kirki-customize/kirki-customizer.php:110
+msgid "Page And Layout"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/pages-options.php:3
+msgid "Page Options"
+msgstr ""
+
+#: functions.php:217
+msgid "Page Sidebar"
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content.php:76
+msgid "Pages:"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:80
+msgid "Pinterest"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-search.php:127
+msgid "Popup BG Color"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-search.php:231
+msgid "PopUp Button BG Color"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-search.php:205
+msgid "PopUp Button icon Color"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-search.php:179
+msgid "PopUp Input BG Color"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-search.php:153
+msgid "PopUp Input Color"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-functions.php:154
+#, php-format
+msgctxt "post author"
+msgid " %s"
+msgstr ""
+
+#: inc/comment-template.php:50
+msgid "Post Comment"
+msgstr ""
+
+#: inc/widgets/blog-post-widget.php:90
+msgid "Post Count:"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-functions.php:136
+#, php-format
+msgctxt "post date"
+msgid " %s"
+msgstr ""
+
+#: inc/template-functions.php:360
+msgid "Post navigation"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/post-slider.php:49
+msgid "Post Order"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/post-slider.php:23
+msgid "Post Order By"
+msgstr ""
+
+#: inc/widgets/blog-post-widget.php:120
+msgid "Post Order:"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/post-slider.php:4
+msgid "Post Slider Options"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/copyright-options.php:19
+msgid "Powered Link For Pro Featured"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/theme-general.php:26
+msgid "Preload Color One"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/theme-general.php:49
+msgid "Preload Color Two"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/theme-general.php:72
+msgid "Preloader Background Color"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/theme-general.php:11
+msgid "Preloader Desible for Pro Featured"
+msgstr ""
+
+#: inc/template-functions.php:367
+msgid "Previous Post"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/theme-color-options.php:23
+msgid "Primary Color"
+msgstr ""
+
+#: functions.php:99
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/kirki-customize/header/drak-options.php:8
+#: inc/kirki-customize/kirki-options/blog-options.php:28
+#: inc/kirki-customize/kirki-options/error-page.php:42
+#: inc/kirki-customize/kirki-options/single-page-options.php:38
+#: inc/kirki-customize/kirki-options/shop/shop-page.php:53
+msgid "Pro Featured"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/copyright-options.php:12
+msgid "Proudly powered by WordPress |"
+msgstr ""
+
+#: inc/template-functions.php:531
+#, php-format
+msgid ""
+"Purchase the Pro Version for More Features. <a href=\"%s\" target=\"_blank\" "
+"class=\"Purchase-links\">Purchase Now</a>"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:89
+msgid "Quora"
+msgstr ""
+
+#: inc/widgets/blog-post-widget.php:137
+msgid "Rand"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/post-slider.php:34
+msgid "Random"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:88
+msgid "Reddit"
+msgstr ""
+
+#: comments.php:55
+msgid "Reply"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:145
+msgid "Right"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/archive-options.php:17
+#: inc/kirki-customize/kirki-options/blog-options.php:17
+#: inc/kirki-customize/kirki-options/pages-options.php:16
+#: inc/kirki-customize/kirki-options/search-options.php:17
+#: inc/kirki-customize/kirki-options/single-page-options.php:17
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:107
+msgid "Same Frame"
+msgstr ""
+
+#: searchform.php:3 inc/hook/structure.php:117
+msgid "Search "
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-search.php:75
+msgid "Search BG Color"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-search.php:9
+msgid "Search Disable is Pro Featured"
+msgstr ""
+
+#: searchform.php:2 searchform.php:3 inc/hook/structure.php:116
+#: inc/hook/structure.php:117
+msgid "Search for:"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-search.php:101
+msgid "Search Hover BG Color"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-search.php:49
+msgid "Search Hover Color"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-search.php:23
+msgid "Search Icon Color"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/search-options.php:4
+msgid "Search Options"
+msgstr ""
+
+#: inc/template-functions.php:491
+msgid "Search Results for"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/theme-color-options.php:54
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/archive-options.php:11
+msgid "Select Archive Page Layout"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/blog-options.php:11
+msgid "Select Blog Page Layout"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/footer-options.php:11
+msgid "Select Footer"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-menu-options.php:5
+msgid "Select Header"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/pages-options.php:10
+msgid "Select Page Layout"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/search-options.php:11
+msgid "Select Search Page Layout"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/single-page-options.php:11
+msgid "Select Single Page Layout"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:103
+msgid "Select Target Option"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/footer-options.php:12
+msgid "Select Your Footer"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-menu-options.php:6
+msgid "Select Your Header"
+msgstr ""
+
+#: inc/kirki-customize/kirki-customizer.php:146
+msgid "Shop Options"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/shop/shop-page.php:4
+msgid "Shop Page Options"
+msgstr ""
+
+#: functions.php:229
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/footer-subscribe.php:57
+msgid "Shotcode"
+msgstr ""
+
+#: functions.php:206
+msgid "Sidebar"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/theme-color-options.php:142
+msgid "Sidebar Background"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/single-page-options.php:4
+msgid "Single Page Options"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/shop/single-shop.php:4
+msgid "Single Shop Page"
+msgstr ""
+
+#: inc/hook/structure.php:60
+msgid "Skip to content"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:84
+msgid "Snapchat"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:72
+msgid "Social Icon"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:138
+msgid "Social Media Section Alignment"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:65
+msgid "Social Name"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:26
+msgid "Socials Icon"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/kirki-customize/header/sticky-options.php:5
+msgid "Sticky is Pro Featured"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-menu-options.php:143
+#: inc/kirki-customize/header/kirki-menu-options.php:229
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-menu-options.php:201
+msgid "Sub Menu Hover Color"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-menu-options.php:115
+msgid "Sub Menu Normal Color"
+msgstr ""
+
+#: inc/hook/custom-hook.php:57
+#: inc/kirki-customize/kirki-options/footer-subscribe.php:27
+msgid "Subscribe To <span>Blog</span>Hub"
+msgstr ""
+
+#: inc/template-functions.php:493
+msgid "Tag"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-functions.php:177
+msgid "Tags:"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:87
+msgid "Telegram"
+msgstr ""
+
+#: inc/kirki-customize/kirki-customizer.php:60
+msgid "Theme Options"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeUniver"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-menu-options.php:88
+#: inc/kirki-customize/header/kirki-menu-options.php:173
+msgid "This Color for First menu. not Sub Menu"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-menu-options.php:116
+#: inc/kirki-customize/header/kirki-menu-options.php:202
+msgid "This Color for Sub menu."
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/footer-options.php:25
+msgid "This Featured For Pro. but Default is Show 4 Column"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/post-slider.php:70
+msgid "This is Pro Featured"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/shop/shop-page.php:25
+msgid "Three Columns For Free"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:83
+msgid "Tiktok"
+msgstr ""
+
+#: inc/widgets/blog-post-widget.php:135
+#: inc/kirki-customize/kirki-options/error-page.php:24
+#: inc/kirki-customize/kirki-options/footer-subscribe.php:25
+#: inc/kirki-customize/kirki-options/post-slider.php:32
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/blog-post-widget.php:81
+msgid "Title :"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/footer-options.php:96
+msgid "Title Color"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/pages-options.php:24
+msgid "Title Tag Is Pro Featured"
+msgstr ""
+
+#: inc/widgets/blog-post-widget.php:86
+msgid "Title Word Count :"
+msgstr ""
+
+#: inc/widgets/about-info.php:93
+msgid "Title:"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/theme-general.php:95
+msgid "Top To Disable for Pro Featured"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:46
+#: inc/kirki-customize/header/header-social.php:77
+msgid "Twitter"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/typography-options.php:3
+msgid "Typography Options"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/typography-options.php:10
+msgid "Unlimited Font For Pro Version"
+msgstr ""
+
+#: customize-pro/class-customize.php:77
+msgid "Upgrade Now"
+msgstr ""
+
+#: customize-pro/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/widgets/about-info.php:109
+msgid "Upload Image:"
+msgstr ""
+
+#: inc/widgets/about-info.php:122
+msgid "URL:"
+msgstr ""
+
+#: inc/custom-metabox.php:44
+msgid "Video URL:"
+msgstr ""
+
+#: inc/woocommerce.php:262
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/kirki-customize/kirki-options/error-page.php:35
+msgid "We are really sorry but the page you requested is missing."
+msgstr ""
+
+#: inc/comment-template.php:25
+msgid "Website"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:86
+msgid "Weixin"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:91
+msgid "Whatsapp"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:53
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/kirki-customize/header/kirki-notification.php:48
+msgid "Yes"
+msgstr ""
+
+#: inc/comment-template.php:43
+msgid "Your Comment*"
+msgstr ""
+
+#: inc/kirki-customize/header/header-social.php:85
+msgid "Youtube"
+msgstr ""

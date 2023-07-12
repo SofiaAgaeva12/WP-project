@@ -1,0 +1,494 @@
+html[data-theme-mode='dark'] {
+    --color-black: #ffffff;
+    --color-primary: #8571FF;
+    --color-thard: #27272c;
+    --color-body: #a9aaab;
+    --color-white: #18181B;
+    --color-dark-white-box: #27272c;
+
+    .single-post-item {
+        article {
+            background-color: var(--color-dark-white-box);
+
+            span.tags-links {
+                a {
+                    color: var(--color-black);
+
+                    &:hover {
+                        color: var(--color-white);
+                    }
+                }
+            }
+        }
+    }
+
+    .wp-block-calendar {
+        tbody {
+            td {
+                border-color: var(--color-thard);
+            }
+        }
+
+        nav {
+            a {
+                color: var(--color-black)
+            }
+        }
+    }
+
+    .wp-block-calendar,
+    .calendar_wrap {
+        table {
+            th {
+                background-color: var(--color-white);
+            }
+
+            caption {
+                color: var(--color-black);
+            }
+        }
+
+        th {
+            border-color: var(--color-thard);
+        }
+    }
+
+    .widget.widget_tag_cloud,
+    .wp-block-tag-cloud {
+        a {
+            color: var(--color-black);
+
+            &:hover {
+                color: var(--color-white);
+            }
+        }
+    }
+
+    .footer-wrapper {
+        &::after {
+            background-color: var(--color-thard);
+        }
+
+        .footer-widget-area {
+
+            .widget-title,
+            .widget_block h2,
+            .widget.widget_rss cite {
+                color: var(--color-black);
+            }
+
+            .footer-widget {
+
+                a,
+                ul li,
+                .rss-date {
+                    color: var(--color-black);
+                }
+
+                a {
+
+                    &:hover {
+                        color: var(--color-primary);
+
+                        &::before {
+                            background-color: var(--color-primary);
+                        }
+                    }
+                }
+
+                ul {
+                    li {
+                        a {
+                            &::before {
+                                background-color: var(--color-black);
+                            }
+                        }
+                    }
+                }
+            }
+
+            .widget_recent_comments {
+                li:before {
+                    background-color: var(--color-black);
+                }
+            }
+        }
+
+        .copyright-area {
+            .copyright-inner {
+                .site-info {
+                    color: var(--color-black);
+
+                    a {
+                        color: var(--color-white);
+
+                        &:hover {
+                            color: var(--color-black);
+                        }
+                    }
+                }
+
+                .copyright-menu {
+                    a {
+                        color: var(--color-black);
+
+                        &:hover {
+                            color: var(--color-white);
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .post-slider-box {
+        .post-image-with-content {
+            .bloghub-table {
+                .bloghub-table-cell {
+                    .post-slide-content {
+                        .category {
+                            ul {
+                                li {
+                                    a {
+                                        color: var(--color-black);
+                                    }
+                                }
+                            }
+                        }
+
+                        .post-title {
+                            a {
+                                color: var(--color-black);
+
+                                &:hover {
+                                    color: var(--color-primary);
+                                }
+                            }
+                        }
+
+                        .post-meta {
+                            ul {
+                                li {
+                                    color: var(--color-black);
+
+                                    a {
+                                        color: var(--color-black);
+
+                                        &:hover {
+                                            color: var(--color-primary)
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+    }
+
+    .right-section {
+        .switch-dark-lite {
+            .switch {
+                .slider {
+                    background-color: var(--color-black);
+
+                    &::before {
+                        color: $color_primary;
+                    }
+
+                    &::after {
+                        color: $color_primary;
+                    }
+                }
+
+                input:checked+.slider {
+                    background: var(--color-black);
+                }
+            }
+        }
+
+        .notification-icon {
+            a {
+                background: var(--color-black);
+                color: $color_primary;
+
+                &:hover {
+                    background-color: var(--color-white);
+                    color: var(--color-black);
+                }
+            }
+        }
+
+        .header-search-box {
+            width: 400px;
+            a{
+                color: $color_primary;
+                &:hover {
+                    background-color: white;
+                }
+            }
+            &:hover {
+                background-color: white !important;
+            }
+        }
+    }
+
+    .header-search-popup {
+        .header-search-popup-content {
+            form {
+                button[type="submit"] {
+                    background-color: var(--color-white);
+                }
+            }
+        }
+    
+        .header-search-overlay {
+            .closes-button {
+                &:hover {
+                    background-color: var(--color-white);
+                }
+            }
+        }
+    }
+    .header-wrapper.Header-two{
+        .header-top-box{
+            background-color: $color_black;
+            .site-title{
+                a{
+                    color: $color_white;
+                }
+            }
+        }
+        .site-description{
+            color: $color_white;
+        }
+    }
+    .main-navigation {
+        .navbar-collapse.nav-menu {
+            ul {
+                li {
+                    a {
+                        color: var(--color-black);
+
+                        &:hover {
+                            color: var(--color-white);
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .footer-top-section {
+        .footer-top-inner {
+            .input-email {
+                input[type="submit"] {
+                    color: var(--color-black);
+                    background-color: var(--color-primary);
+
+                    &:hover {
+                        background-color: var(--color-black);
+                        color: var(--color-white)
+                    }
+                }
+            }
+        }
+    }
+
+    .page-title-wrapper {
+        .page-title-inner {
+            border: 1px solid #535354;
+            background: var(--color-thard);
+        }
+    }
+
+    .to-top {
+        color: var(--color-black);
+    }
+
+    .entry-footer {
+        span.tags-links {
+            a {
+                background-color: var(--color-primary);
+                color: var(--color-black);
+
+                &:hover {
+                    background-color: var(--color-black);
+                    color: var(--color-white);
+                }
+            }
+        }
+
+        .post-footer .share-this-post {
+            ul {
+                li {
+                    a {
+                        color: var(--color-black);
+                    }
+                }
+            }
+        }
+    }
+
+    .author-info-wrapper {
+        background-color: var(--color-thard);
+    }
+
+    input[type=submit],
+    button[type=submit],
+    .theme-button {
+        background-color: var(--color-primary);
+        color: var(--color-black);
+
+        &:hover {
+            background-color: var(--color-black);
+            color: var(--color-white);
+        }
+    }
+
+    .footer-widget,
+    .footer-widget p,
+    .footer-widget-area .widget ul li {
+        color: var(--color-body)
+    }
+
+    .header-wrapper {
+        .site-title {
+            a {
+                color: var(--color-black);
+            }
+        }
+    }
+
+    .post-details-wrapper .wp-block-cover p:not(.has-text-color),
+    .wp-block-cover.has-background-dim strong,
+    .wp-block-cover.has-background-dim a {
+        color: var(--color-black);
+    }
+
+    .post-details-wrapper {
+        .post-content-wrapper {
+            box-shadow: 0px 0px 33px rgba(0, 0, 0, 0.1098039216);
+            background-color: var(--color-thard);
+        }
+    }
+
+    blockquote.wp-block-quote,
+    blockquote {
+        background-color: var(--color-white);
+        color: var(--color-black);
+    }
+
+    .page-content-area blockquote.wp-block-quote,
+    .page-content-area blockquote {
+        background-color: var(--color-thard);
+        color: var(--color-black);
+    }
+
+    nav.navigation.pagination,
+    .pagination-area,
+    nav.navigation.comments-pagination {
+        ul {
+            li {
+                a {
+                    &:hover {
+                        background-color: var(--color-primary);
+                        color: var(--color-black);
+                    }
+                }
+
+                a,
+                span,
+                span.page-numbers.current {
+                    border: 2px solid var(--color-thard);
+                    color: var(--color-black);
+                }
+
+                span.page-numbers.current,
+                span.current,
+                a.current,
+                span {
+                    background-color: var(--color-primary);
+                    color: var(--color-black);
+                }
+            }
+        }
+    }
+
+    .page-links {
+        span.current {
+            background-color: var(--color-primary);
+            color: var(--color-black);
+        }
+
+        span,
+        a {
+            border: 2px solid var(--color-primary);
+            color: var(--color-black);
+
+            &:hover {
+                background-color: var(--color-primary);
+                color: var(--color-black);
+            }
+        }
+    }
+
+    .comments-area {
+        a.page-numbers {
+            &:hover {
+                background-color: var(--color-primary);
+                color: var(--color-black);
+            }
+        }
+    }
+
+    nav.navigation.post-navigation {
+        border-top: 2px solid var(--color-thard);
+        border-bottom: 2px solid var(--color-thard);
+
+    }
+    div#mobile {
+        .slicknav_menu {
+            background: transparent;
+            ul {
+                background: var(--color-white);
+            }
+        }
+    }
+    .widget button[type="submit"].wp-block-search__button{
+        background-color: var(--color-primary);
+    }
+
+    input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="number"], input[type="tel"], input[type="range"], input[type="date"], input[type="month"], input[type="week"], input[type="time"], input[type="datetime"], input[type="datetime-local"], input[type="color"], textarea{
+        color: var(--color-white)
+    }
+    .mini-cart-header span.fa-shopping-cart {
+        background-color: var(--color-black);
+        color: var(--color-primary);
+        &:hover{
+            background-color: var(--color-white);
+            color: var(--color-black);
+        }
+    }
+    .woocommerce-ordering select.orderby {
+        color: var(--color-white);
+    }
+    .woocommerce table.shop_table,.woocommerce table.shop_table td {
+        border-color: var(--color-thard);
+    }
+    .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+        background-color: var(--color-primary);
+        transition: .4s;
+        color: var(--color-black);
+    }
+    .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover {
+        background-color: var(--color-black);
+        color: var(--color-white);
+    }
+
+    .woocommerce #review_form #respond textarea {
+        color: $color_body;
+    }
+}
