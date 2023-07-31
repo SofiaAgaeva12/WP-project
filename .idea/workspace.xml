@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65af563e-e4c5-463a-b7a8-e7ca75a42cf7" name="Default Changelist" comment="">
+    <list default="true" id="65af563e-e4c5-463a-b7a8-e7ca75a42cf7" name="Default Changelist" comment="page &quot;&quot;contacts&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/title.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/title.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/elementor/css/global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-14.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +51,18 @@
       <workItem from="1688980776174" duration="596000" />
       <workItem from="1689048926357" duration="4864000" />
       <workItem from="1689137461050" duration="6463000" />
+      <workItem from="1689262227443" duration="762000" />
+      <workItem from="1690030235262" duration="598000" />
+      <workItem from="1690269031691" duration="4269000" />
     </task>
+    <task id="LOCAL-00001" summary="page &quot;&quot;contacts&quot;">
+      <created>1689262365569</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689262365569</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,5 +83,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="page &quot;&quot;contacts&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="page &quot;&quot;contacts&quot;" />
   </component>
 </project>
